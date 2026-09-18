@@ -77,3 +77,13 @@ The project follows a structured **end-to-end Data Analyst workflow**:
 ```
 
 ---
+
+# 1️⃣ Understand Business Problem
+
+- Define the customer segmentation objective.
+- Understand customer purchasing behavior.
+- Identify customer-value differences.
+- Determine how RFM analysis can support marketing and retention.
+- Translate business requirements into analytical questions.
+
+---
