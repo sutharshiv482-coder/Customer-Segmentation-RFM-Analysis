@@ -43,3 +43,37 @@ The main objective of this project is to:
 10. How can marketing strategies be customized for different customer segments?
 
 ---
+
+# 🔄 Project Workflow
+
+The project follows a structured **end-to-end Data Analyst workflow**:
+
+```text
+1. Understand Business Problem
+          ↓
+2. Inspect Raw Dataset
+          ↓
+3. Perform Data Quality Audit
+          ↓
+4. Clean Data using Pandas
+          ↓
+5. Validate Cleaned Data
+          ↓
+6. Explore Customer Purchasing Patterns
+          ↓
+7. Calculate RFM Metrics
+          ↓
+8. Create Customer Segments
+          ↓
+9. Write SQL Business Queries
+          ↓
+10. Define KPIs
+          ↓
+11. Build Dashboard
+          ↓
+12. Generate Business Insights
+          ↓
+13. Recommend Actions
+```
+
+---
