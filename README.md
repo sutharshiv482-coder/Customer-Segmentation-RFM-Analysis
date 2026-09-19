@@ -102,3 +102,21 @@ Activities included:
 - Examining customer purchasing patterns.
 
 ---
+
+# 3️⃣ Perform Data Quality Audit
+
+The dataset was audited before performing customer segmentation.
+
+Key checks included:
+
+- Missing values.
+- Duplicate transactions.
+- Invalid customer IDs.
+- Invalid transaction dates.
+- Invalid or negative transaction amounts.
+- Inconsistent customer information.
+- Incorrect data types.
+- Unnecessary columns.
+- Duplicate customer records.
+
+---
