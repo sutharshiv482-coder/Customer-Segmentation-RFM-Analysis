@@ -120,3 +120,24 @@ Key checks included:
 - Duplicate customer records.
 
 ---
+
+# 4️⃣ Clean Data using Pandas
+
+Data cleaning and preprocessing were performed using **Python (Pandas)**.
+
+Key activities included:
+
+- Removed duplicate records.
+- Handled missing values.
+- Standardized customer identifiers.
+- Corrected transaction date formats.
+- Converted monetary fields into numeric values.
+- Removed invalid transaction records.
+- Standardized categorical values.
+- Corrected data types.
+- Validated transaction-level data.
+- Prepared the cleaned dataset for RFM analysis and SQL querying.
+
+> 🧹 **Clean transaction data is essential for accurate customer segmentation and reliable business insights.**
+
+---
