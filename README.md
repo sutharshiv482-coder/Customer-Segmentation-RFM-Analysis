@@ -125,20 +125,23 @@ Key checks included:
 
 # 4️⃣ Clean Data using Pandas
 
-Data cleaning and preprocessing were performed using **Python (Pandas)**.
+Data cleaning and preprocessing were performed using **Python (Pandas)** to prepare the dataset for accurate RFM analysis and customer segmentation.
 
 Key activities included:
 
-- Removed duplicate records.
-- Handled missing values.
-- Standardized customer identifiers.
-- Corrected transaction date formats.
-- Converted monetary fields into numeric values.
-- Removed invalid transaction records.
-- Standardized categorical values.
-- Corrected data types.
-- Validated transaction-level data.
-- Prepared the cleaned dataset for RFM analysis and SQL querying.
+- Removed exact duplicate records.
+- Handled missing customer information.
+- Standardized customer and transaction identifiers.
+- Standardized text values, casing, and whitespace.
+- Converted transaction dates into a consistent date format.
+- Converted price, quantity, discount, and revenue fields into numeric data types.
+- Corrected invalid or negative age values.
+- Handled invalid quantities and transaction amounts.
+- Recalculated missing revenue where sufficient transaction data was available.
+- Removed invalid transaction records from the RFM dataset.
+- Investigated duplicate and conflicting Order IDs.
+- Validated the cleaned transaction-level data.
+- Prepared the final dataset for RFM analysis and SQL querying.
 
 > 🧹 **Clean transaction data is essential for accurate customer segmentation and reliable business insights.**
 
