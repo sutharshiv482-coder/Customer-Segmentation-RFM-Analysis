@@ -106,19 +106,20 @@ Activities included:
 
 # 3️⃣ Perform Data Quality Audit
 
-The dataset was audited before performing customer segmentation.
+The dataset was audited using **Pandas** to identify data quality issues before performing customer segmentation and RFM analysis.
 
 Key checks included:
 
-- Missing values.
-- Duplicate transactions.
-- Invalid customer IDs.
-- Invalid transaction dates.
-- Invalid or negative transaction amounts.
-- Inconsistent customer information.
+- Missing values across all columns.
+- Duplicate rows and transactions.
+- Missing or invalid Customer IDs.
+- Invalid or inconsistent transaction dates.
+- Negative or zero quantities.
+- Invalid or negative prices and revenue values.
+- Inconsistent text values, casing, and whitespace.
 - Incorrect data types.
-- Unnecessary columns.
-- Duplicate customer records.
+- Missing or inconsistent customer information.
+- Duplicate or conflicting Order IDs.
 
 ---
 
