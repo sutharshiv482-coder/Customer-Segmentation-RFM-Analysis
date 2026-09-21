@@ -90,16 +90,17 @@ The project follows a structured **end-to-end Data Analyst workflow**:
 
 # 2️⃣ Inspect Raw Dataset
 
-The raw customer transaction data was inspected using **Python and Pandas**.
+The raw customer transaction dataset was inspected using **Pandas** to understand its structure, data types, and initial data quality.
 
 Activities included:
 
-- Loading the transaction dataset.
-- Understanding dataset dimensions.
+- Loading the raw transaction dataset.
+- Checking the number of rows and columns.
 - Reviewing column names and data types.
-- Inspecting customer and transaction records.
-- Reviewing transaction dates and monetary values.
-- Examining customer purchasing patterns.
+- Inspecting sample customer and transaction records.
+- Checking missing values and duplicate records.
+- Reviewing date, quantity, price, discount, and revenue fields.
+- Examining customer and transaction patterns.
 
 ---
 
