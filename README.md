@@ -146,3 +146,24 @@ Key activities included:
 > 🧹 **Clean transaction data is essential for accurate customer segmentation and reliable business insights.**
 
 ---
+
+# 5️⃣ Validate Cleaned Data
+
+The cleaned dataset was validated using **Python (Pandas)** to ensure data quality and consistency before calculating RFM metrics.
+
+Validation included:
+
+- Rechecking missing values across all columns.
+- Confirming that duplicate records were removed.
+- Validating Customer IDs and customer records.
+- Checking transaction dates for valid and consistent values.
+- Validating quantity, price, discount, and revenue values.
+- Confirming correct data types for all columns.
+- Checking for invalid or negative transaction values.
+- Verifying unique customer and transaction counts.
+- Confirming the final cleaned dataset is ready for RFM analysis.
+
+> ✅ **Data validation ensures that RFM metrics are calculated from accurate and reliable transaction data.**
+
+---
+
