@@ -167,3 +167,17 @@ Validation included:
 
 ---
 
+# 6️⃣ Explore Customer Purchasing Patterns
+
+Exploratory analysis was performed to understand customer behavior.
+
+Analysis included:
+
+- Customer purchase frequency.
+- Customer spending behavior.
+- Recent purchase activity.
+- Revenue contribution by customer.
+- Transaction distribution.
+- Customer purchasing patterns over time.
+
+---
