@@ -181,3 +181,13 @@ Analysis included:
 - Customer purchasing patterns over time.
 
 ---
+
+# 7️⃣ Calculate RFM Metrics
+
+RFM analysis was used to evaluate customers across three dimensions:
+
+| Metric | Meaning | Business Purpose |
+|--------|---------|------------------|
+| 🕐 **Recency** | How recently a customer purchased | Measures customer engagement |
+| 🔄 **Frequency** | How often a customer purchased | Measures customer loyalty |
+| 💰 **Monetary** | How much a customer spent | Measures customer value |
