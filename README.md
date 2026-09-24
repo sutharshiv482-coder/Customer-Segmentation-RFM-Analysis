@@ -209,3 +209,21 @@ Create Customer Segments
 ```
 
 ---
+
+# 8️⃣ Create Customer Segments
+
+Customers are grouped into meaningful segments based on their RFM scores.
+
+Example segments include:
+
+- 👑 **Champions** – Highly engaged and high-value customers.
+- 💎 **Loyal Customers** – Customers with strong purchasing frequency.
+- 🌱 **Potential Loyalists** – Customers showing potential for stronger engagement.
+- 🆕 **New Customers** – Recently acquired customers with limited purchase history.
+- ⚠️ **At Risk** – Previously valuable customers showing reduced recent activity.
+- 💤 **Hibernating Customers** – Customers with low recent engagement.
+- 🚨 **Lost Customers** – Customers with very low recent activity and purchasing value.
+
+> **RFM segmentation helps businesses move from broad customer marketing to targeted customer strategies.**
+
+---
