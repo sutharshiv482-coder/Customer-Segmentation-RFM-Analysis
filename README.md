@@ -227,3 +227,24 @@ Example segments include:
 > **RFM segmentation helps businesses move from broad customer marketing to targeted customer strategies.**
 
 ---
+
+# 9️⃣ Write SQL Business Queries
+
+SQL was used to perform business-focused customer analysis.
+
+Analysis areas include:
+
+- Total customers.
+- Total transactions.
+- Total revenue.
+- Average customer spending.
+- Purchase frequency.
+- Customer-level revenue.
+- RFM metrics.
+- Customer segment distribution.
+- Revenue contribution by segment.
+- High-value customers.
+- At-risk customers.
+- Inactive customers.
+
+---
