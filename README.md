@@ -191,3 +191,21 @@ RFM analysis was used to evaluate customers across three dimensions:
 | 🕐 **Recency** | How recently a customer purchased | Measures customer engagement |
 | 🔄 **Frequency** | How often a customer purchased | Measures customer loyalty |
 | 💰 **Monetary** | How much a customer spent | Measures customer value |
+
+### RFM Framework
+
+```text
+Customer Transactions
+        ↓
+Calculate Recency
+        ↓
+Calculate Frequency
+        ↓
+Calculate Monetary Value
+        ↓
+Assign RFM Scores
+        ↓
+Create Customer Segments
+```
+
+---
