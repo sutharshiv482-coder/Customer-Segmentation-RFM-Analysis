@@ -274,3 +274,9 @@ Analysis areas include:
 | **Jupyter Notebook** | Data exploration and analytical workflow |
 
 ---
+
+# 📊 Dashboard Preview
+
+![Customer Segmentation & RFM Analysis Dashboard](YOUR_DASHBOARD_IMAGE_URL)
+
+---
