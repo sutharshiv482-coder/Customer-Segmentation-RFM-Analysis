@@ -263,3 +263,14 @@ Analysis areas include:
 - ⚠️ **At-Risk Customers**
 
 ---
+
+# 🛠️ Technology Stack
+
+| Tool | Purpose |
+|------|---------|
+| **Python (Pandas)** | Data cleaning, preprocessing, and RFM calculation |
+| **SQL** | Customer analysis, segmentation, and KPI calculations |
+| **Web-Based Interactive Analytics Dashboard** | Dashboard development and visualization |
+| **Jupyter Notebook** | Data exploration and analytical workflow |
+
+---
