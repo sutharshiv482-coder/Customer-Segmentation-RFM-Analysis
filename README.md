@@ -248,3 +248,18 @@ Analysis areas include:
 - Inactive customers.
 
 ---
+
+# 🔟 Define KPIs
+
+## 📌 Key Performance Indicators (KPIs)
+
+- 👥 **Total Customers**
+- 🛒 **Total Orders / Transactions**
+- 💰 **Total Revenue**
+- 📊 **Average Customer Value**
+- 🔄 **Average Purchase Frequency**
+- 🕐 **Average Recency**
+- 👑 **High-Value Customers**
+- ⚠️ **At-Risk Customers**
+
+---
