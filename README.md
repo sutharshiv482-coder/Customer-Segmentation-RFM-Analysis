@@ -226,54 +226,28 @@ RFM Score = 414
 
 Customers were grouped into meaningful segments based on their **RFM scores**.
 
-RFM scores were used to understand customer engagement, purchase frequency, and spending behavior.
+| Segment | Meaning |
+|---------|---------|
+| 👑 **Champions** | Highly engaged and high-value customers |
+| 💎 **Loyal Customers** | Frequent and loyal buyers |
+| 🌱 **Potential Loyalists** | Customers with potential to become loyal |
+| 🆕 **New Customers** | Recently acquired customers with limited history |
+| ⚠️ **At Risk** | Valuable customers who have not purchased recently |
+| 💤 **Hibernating Customers** | Customers with low recent activity |
+| 🚨 **Lost Customers** | Customers with very low engagement |
 
-### Customer Segments
-
-| Segment | Description | Business Action |
-|---------|-------------|-----------------|
-| 👑 **Champions** | Highly engaged customers who purchase recently, frequently, and spend more | Reward and retain high-value customers |
-| 💎 **Loyal Customers** | Customers who purchase regularly and show strong loyalty | Encourage repeat purchases and upselling |
-| 🌱 **Potential Loyalists** | Recent customers with moderate purchase activity and potential to become loyal | Increase engagement and encourage repeat purchases |
-| 🆕 **New Customers** | Recently acquired customers with limited purchase history | Build engagement and encourage the second purchase |
-| ⚠️ **At Risk** | Previously valuable customers who have not purchased recently | Use targeted offers and retention campaigns |
-| 💤 **Hibernating Customers** | Customers with low recent activity and low purchase frequency | Use re-engagement campaigns |
-| 🚨 **Lost Customers** | Customers with very low engagement and purchasing activity | Attempt win-back campaigns or reduce marketing priority |
-
-### Segmentation Framework
+### Segmentation Process
 
 ```text
 RFM Scores
-     ↓
-Evaluate Recency
-     ↓
-Evaluate Frequency
-     ↓
-Evaluate Monetary Value
-     ↓
+    ↓
 Apply Segmentation Rules
-     ↓
+    ↓
 Assign Customer Segment
-     ↓
-Analyze Segment Size & Revenue
-     ↓
-Define Targeted Marketing Actions
-
+    ↓
+Analyze Customer Behavior
 ```
-Example:
-
-```text
-Customer: cust00179
-
-RFM Score = 414
-
-Recency Score    = 4
-Frequency Score  = 1
-Monetary Score   = 4
-
-Segment → Potential Loyalist
-
-```
+RFM segmentation helps businesses create targeted marketing and retention strategies.
 
 ---
 
