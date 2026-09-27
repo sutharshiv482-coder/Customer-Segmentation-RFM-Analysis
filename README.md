@@ -303,3 +303,20 @@ Analysis areas include:
 ![Customer Segmentation & RFM Analysis Dashboard](YOUR_DASHBOARD_IMAGE_URL)
 
 ---
+
+# ⚙️ Dashboard Features
+
+- 👥 **Customer KPI Cards** – Monitor total customers and customer-level metrics.
+- 💰 **Revenue Analysis** – Track overall revenue and customer contribution.
+- 🕐 **Recency Analysis** – Identify recently active and inactive customers.
+- 🔄 **Frequency Analysis** – Analyze customer purchase frequency.
+- 💎 **Monetary Analysis** – Identify high-value customers based on spending.
+- 📊 **RFM Segment Distribution** – Visualize the customer base across different RFM segments.
+- 👑 **High-Value Customer Analysis** – Identify customers contributing significant revenue.
+- ⚠️ **At-Risk Customer Analysis** – Highlight customers requiring retention efforts.
+- 💤 **Inactive Customer Analysis** – Identify customers with low recent engagement.
+- 🎛️ **Interactive Filters** – Explore customer segments dynamically.
+- 🔍 **Customer Segmentation** – Analyze customer behavior across RFM groups.
+- 💡 **Business Insights** – Present customer-focused insights for marketing and retention decisions.
+
+---
