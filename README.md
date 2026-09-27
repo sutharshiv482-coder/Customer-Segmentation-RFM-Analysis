@@ -320,3 +320,19 @@ Analysis areas include:
 - 💡 **Business Insights** – Present customer-focused insights for marketing and retention decisions.
 
 ---
+
+# 📈 Key Business Insights
+
+The analysis focuses on identifying:
+
+- High-value customers contributing significant revenue.
+- Customers with strong purchasing frequency.
+- Recently active customers.
+- Customers showing signs of declining engagement.
+- At-risk and inactive customer segments.
+- Revenue contribution across customer segments.
+- Differences in purchasing behavior between customer groups.
+
+> **RFM analysis provides a structured way to identify where retention, loyalty, and re-engagement efforts should be focused.**
+
+---
