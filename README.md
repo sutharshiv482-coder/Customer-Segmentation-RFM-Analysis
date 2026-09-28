@@ -264,8 +264,6 @@ Analysis areas include:
 - Purchase frequency.
 - Customer-level revenue.
 - RFM metrics.
-- Customer segment distribution.
-- Revenue contribution by segment.
 - High-value customers.
 - At-risk customers.
 - Inactive customers.
