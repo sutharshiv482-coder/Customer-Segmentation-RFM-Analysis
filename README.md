@@ -265,8 +265,6 @@ Analysis areas include:
 - Customer-level revenue.
 - RFM metrics.
 - High-value customers.
-- At-risk customers.
-- Inactive customers.
 
 ---
 
