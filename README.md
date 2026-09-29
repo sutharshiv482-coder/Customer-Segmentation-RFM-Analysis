@@ -296,40 +296,44 @@ Analysis areas include:
 
 # 📊 Dashboard Preview
 
-![Customer Segmentation & RFM Analysis Dashboard](YOUR_DASHBOARD_IMAGE_URL)
+![Customer Segmentation & RFM Analysis Dashboard]([YOUR_DASHBOARD_IMAGE_URL](https://github.com/sutharshiv482-coder/Customer-Segmentation-RFM-Analysis/blob/main/Customer%20RFM%20Segmentation%20Dashboard%20-%20Google%20Chrome%2029-09-2026%2015_57_58.png))
 
 ---
 
 # ⚙️ Dashboard Features
 
-- 👥 **Customer KPI Cards** – Monitor total customers and customer-level metrics.
-- 💰 **Revenue Analysis** – Track overall revenue and customer contribution.
-- 🕐 **Recency Analysis** – Identify recently active and inactive customers.
-- 🔄 **Frequency Analysis** – Analyze customer purchase frequency.
-- 💎 **Monetary Analysis** – Identify high-value customers based on spending.
-- 📊 **RFM Segment Distribution** – Visualize the customer base across different RFM segments.
-- 👑 **High-Value Customer Analysis** – Identify customers contributing significant revenue.
-- ⚠️ **At-Risk Customer Analysis** – Highlight customers requiring retention efforts.
-- 💤 **Inactive Customer Analysis** – Identify customers with low recent engagement.
-- 🎛️ **Interactive Filters** – Explore customer segments dynamically.
-- 🔍 **Customer Segmentation** – Analyze customer behavior across RFM groups.
-- 💡 **Business Insights** – Present customer-focused insights for marketing and retention decisions.
+- 👥 **KPI Cards** – Monitor total customers, total revenue, average spend per customer, and average orders per customer.
+- 🧩 **Customer Segmentation** – Analyze customers across RFM segments such as Champions, Loyal Customers, At Risk, Hibernating, and New Customers.
+- 💰 **Revenue by Segment** – Compare each customer segment’s contribution to total revenue.
+- 💳 **Average Spend Analysis** – Identify segments with the highest and lowest customer spending.
+- 📊 **Purchase Frequency Analysis** – Analyze customers based on their number of orders.
+- 📅 **Days Since Last Purchase** – Monitor customer recency and identify inactive or at-risk customers.
+- 🏆 **Top Customers Analysis** – Identify high-value customers based on orders and spending.
+- 🎯 **Marketing Action Insights** – Provide recommended marketing actions for different customer segments.
+- 👤 **Customer Type Analysis** – Filter customers by type, including VIP, Returning, New, Premium, and Unknown.
+- 🔎 **Interactive Filters** – Dynamically filter customers by RFM segment, customer type, and last purchase period.
+- 📈 **Segment Comparison** – Compare customer count, revenue, spending, purchase frequency, and recency across segments.
+- 💡 **Business Insights** – Present customer behavior and marketing insights in a clear, business-friendly format.
 
 ---
 
 
-# 📈 Key Business Insights
+# 1️⃣1️⃣ Generate Business Insights
 
-The analysis focuses on identifying:
+The analysis converts customer transaction data into actionable customer and marketing insights.
 
-- High-value customers contributing significant revenue.
-- Customers with strong purchasing frequency.
-- Recently active customers.
-- Customers showing signs of declining engagement.
-- At-risk and inactive customer segments.
-- Revenue contribution across customer segments.
-- Differences in purchasing behavior between customer groups.
+Key areas include:
 
-> **RFM analysis provides a structured way to identify where retention, loyalty, and re-engagement efforts should be focused.**
+- 👑 **High-Value Customers** – Identify Champions and other customers contributing the most revenue.
+- 💰 **Revenue Contribution** – Determine which customer segments generate the highest share of total revenue.
+- 🛍️ **Purchase Behavior** – Analyze customer frequency and spending patterns across RFM segments.
+- ⚠️ **At-Risk Customers** – Identify customers with declining engagement or long periods since their last purchase.
+- 😴 **Inactive Customers** – Identify Hibernating and inactive customers who may require re-engagement campaigns.
+- 🌱 **Growth Opportunities** – Identify Potential Loyalists and New Customers who can be converted into loyal, high-value customers.
+- 📅 **Recency Analysis** – Understand customer activity based on days since the last purchase.
+- 🎯 **Marketing Opportunities** – Recommend targeted marketing actions for different customer segments.
+- 🏆 **Top Customer Analysis** – Identify high-value customers based on order frequency and spending.
+
+> **The goal is not only to segment customers, but to understand their behavior and identify the right marketing action for each customer segment.**
 
 ---
