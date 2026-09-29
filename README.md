@@ -296,7 +296,7 @@ Analysis areas include:
 
 # 📊 Dashboard Preview
 
-![Customer Segmentation & RFM Analysis Dashboard]([YOUR_DASHBOARD_IMAGE_URL](https://github.com/sutharshiv482-coder/Customer-Segmentation-RFM-Analysis/blob/main/Customer%20RFM%20Segmentation%20Dashboard%20-%20Google%20Chrome%2029-09-2026%2015_57_58.png))
+![Customer Segmentation & RFM Analysis Dashboard](https://github.com/sutharshiv482-coder/Customer-Segmentation-RFM-Analysis/blob/main/Customer%20RFM%20Segmentation%20Dashboard%20-%20Google%20Chrome%2029-09-2026%2015_57_58.png)
 
 ---
 
