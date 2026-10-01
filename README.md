@@ -429,3 +429,11 @@ Marketing & Retention Recommendations
 The final solution enables businesses to better understand customer value, identify retention opportunities, and develop targeted strategies based on purchasing behavior.
 
 ---
+
+# 👨‍💻 Author
+
+**Shiv Suthar**
+
+---
+
+⭐ **If you found this project useful, consider giving it a Star ⭐ on GitHub!**
