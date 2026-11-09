@@ -565,7 +565,3 @@ The dashboard transforms transaction-level data into actionable customer insight
 
 ⭐ If you found this project useful, consider giving it a Star on GitHub!
 
-```
-
-This version is stronger because it tells a cleaner story: **business problem → data → cleaning → RFM → segmentation → SQL → KPIs → dashboard → insights → recommendations → business value**, without repeating the same workflow at the end.
-```
